@@ -1,0 +1,5 @@
+Beagle,
+King Charles Cavalier Spaniel,
+Cavachon,
+Corgi Cross,
+Chihuahua Cross,
